@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-side-menu](screens/menu-screen)
 - [screen-login](screens/login)
 - [screen-appointment-calendar](screens/appointment-calendar)
+- [screen-add-card-details](screens/add-card-details)
 
 # Getting started: Frontend
 
